@@ -1,0 +1,6 @@
+- Hakchi2 CE
+(https://github.com/teamshinkansen/hakchi2-ce/releases)
+- SNES Mini Console with USB Cable
+(https://www.amazon.com/Nintendo-Super-Entertainment-Classic-Extension-NES/dp/B07MWHRF21/ref=sr_1_2?crid=1CV9LGIZGVKT0&dib=eyJ2IjoiMSJ9.3oryopZ6Ahfe6eewHKOp7O9CNYvtCxOIrnAbuIPv-RPrQpC0AYCn6oTqa6TyPrTo9kROj1EF7Y0FWYu_QoPjxYx7TpoPw61xrIE4yRJaOH-6iZzxsvbgbpETerXW5b9WvTQRy00T_pWTTh5EO2MC_LMhmsvvK8mLpaZVGz4_tdm-syAmcpogxNxT1994dAt4sLmMASXMee5hRzbXl-QaLfHwxqz9VyQr6fwOW4DJBdg.sZLnuERsJht7njPGuAkcaOs5SzuTBvUg2X332shnjSs&dib_tag=se&keywords=snes+mini+console&qid=1751421792&sprefix=snes+miniconsole%2Caps%2C178&sr=8-2)
+- ZIP File of SNES Roms
+(https://drive.google.com/file/d/1QwgI7M6ZCHrPJ5Ug8RTfDu23bSDPPTr4/view?usp=sharing)
